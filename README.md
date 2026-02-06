@@ -1,0 +1,5 @@
+|----|----|----|---|---|
+|:---|:---|:---|:---|:---|
+| <img src="./misc/dot-repo.png" width="100" height="100" /> | <img src="./misc/arch-install-guide-repo.png" width="100" height="100" /> | <img src="./misc/damblocks-repo.png" width="100" height="100" /> | <img src="./misc/dwl-repo.png" width="100" height="100" /> | <img src="./misc/kwm-repo.png" width="100" height="100" /> |
+| <img src="./misc/river-classic-repo.png" width="100" height="100" /> | <img src="./misc/river-shifttags-repo.png" width="100" height="100" /> | <img src="./misc/dam-repo.png" width="100" height="100" /> | <img src="./misc/mew-repo.png" width="100" height="100" /> | <img src="./misc/nsxiv-repo.png" width="100" height="100" /> |
+| <img src="./misc/dwm-repo.png" width="100" height="100" /> | <img src="./misc/st-repo.png" width="100" height="100" /> | <img src="./misc/dmenu-repo.png" width="100" height="100" /> | <img src="./misc/dvtm-repo.png" width="100" height="100" /> | <img src="./misc/abduco-repo.png" width="100" height="100" /> |
